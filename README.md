@@ -8,7 +8,7 @@ Right now, this guide mostly signposts to standards and guidance hosted elsewher
 
 ## Topics
 
-#### [[Service delivery|Service delivery]]
+#### [Service delivery](service_delivery.md)
 #### [[Design|Design]]
 #### [[Branding|Branding]]
 #### [[Clinical|Clinical]]
