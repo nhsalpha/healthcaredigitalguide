@@ -35,7 +35,7 @@ Right now, this guide mostly signposts to standards and guidance hosted elsewher
 
 ## Get support
 
-* **[Join the health and care Slack community](https://healthandcaredigital.slack.com)** (open to multiple nhs.uk domains) or [request an invite](mailto:dan.sheldon@digital.nhs.uk). 
+* **[Join the health and care Slack community](https://healthandcaredigital.slack.com)** (open to multiple nhs.uk and nhs.net domains) or [request an invite](mailto:dan.sheldon@digital.nhs.uk). 
 
 ## Other resources
 
