@@ -32,6 +32,7 @@ Right now, this guide mostly signposts to standards and guidance hosted elsewher
 #### [Developing a mobile app](mobile-apps.md)
 #### Getting approval
 #### Prototyping NHS.UK services
+#### [Developing a service that deals with patient data](dealing-with-patient-data.md)
 
 ## Get support
 
