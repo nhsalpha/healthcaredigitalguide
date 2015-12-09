@@ -6,6 +6,8 @@ This guide is designed to help everyone involved in building and delivering digi
 
 Right now, this guide mostly signposts to standards and guidance hosted elsewhere. Over time, we hope this guide evolves into a useful and practical resource for delivery teams.
 
+**We welcome contributions from everyone.** You can do this by submitting a pull request via Github, or via your browser by editing these pages on github.com. 
+
 ## Topics
 
 #### [Service delivery](service-delivery.md)
