@@ -1,3 +1,5 @@
+This is an experimental service: there may be errors, inconsistencies or inaccuracies. This guide does not currently  provide official policy or guidance, please refer to original sources for now. 
+
 # Department of Health spending controls
 
 This page sets out the spend controls processes that apply to digital services and websites. It has been written for all DH and ALB teams working on digital projects. 
