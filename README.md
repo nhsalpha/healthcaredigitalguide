@@ -1,6 +1,7 @@
 # Health and Care Digital Guide
 
-**This is an experimental service: there may be errors, inconsistencies or inaccuracies.**
+**This is an experimental service: there may be errors, inconsistencies or inaccuracies.** This guide does not currently  provide official policy or guidance, please refer to original sources for now. 
+
 
 This guide is designed to help everyone involved in building and delivering digital services in health and care.
 
