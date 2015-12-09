@@ -14,7 +14,7 @@
 * Provided by: Cabinet Office
 * Applies to: all technology and digital spend by government departments and agencies
 
-#### [Department of Health digital spend controls guidance](DH_spend_control_guidance.md)
+#### [Department of Health digital spend controls guidance](dh-spending-controls.md)
 
 * Provided by: Department of Health
 * Applies to: all digital spend by Department of Health and its agencies
