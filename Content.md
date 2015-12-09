@@ -1,4 +1,6 @@
-### Standards
+# Content
+
+## Standards
 
 #### [The Information Standard](https://www.england.nhs.uk/tis/) (not published online)
 
@@ -11,7 +13,7 @@ Digital services are out of scope of the standard, but it is relevant to how ser
 * Provided by: NHS England
 * Applies to: all organisations producing health and care information for the public
 
-### Guidance
+## Guidance
 
 #### [Guidance for government digital publishing](https://www.gov.uk/topic/government-digital-guidance/content-publishing)
 

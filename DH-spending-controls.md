@@ -1,3 +1,5 @@
+# Department of Health spending controls
+
 This page sets out the spend controls processes that apply to digital services and websites. It has been written for all DH and ALB teams working on digital projects. 
 
 DH follows the controls and standards set down by the Cabinet Office. The controls exist to make sure all digital products meet citizens’ needs and are cost-effective. Approval is required for: 
@@ -10,8 +12,8 @@ All new digital services must meet the [Digital by Default Service Standard](htt
 
 Questions or suggestions should be sent to DigitalProjects@dh.gsi.gov.uk.
 
-### Digital assurance process
-***
+## Digital assurance process
+
 1. Pre-engagement: share quarterly strategic pipeline with DH Digital
 2. Discovery: 
 3. Submit control form to DH Digital Team 
@@ -21,8 +23,8 @@ Questions or suggestions should be sent to DigitalProjects@dh.gsi.gov.uk.
 
 **_NEEDS TO BE TURNED INTO A DIAGRAM_**
 
-### Am I subject to controls? 
-***
+## Am I subject to controls? 
+
 Since 2010, all new ICT projects over £1m, all paid for communications, advertising and marketing activity, and all digital projects over £100,000 are subject to controls.
 
 The controls **apply** to all central government bodies and ALBs. This includes organisations that are funded by DH or an ALB such as Genomics England or Skills for Care.
@@ -35,7 +37,7 @@ Spend controls apply regardless of the funding source. DH and ALB teams must als
 
 Early engagement with the DH Digital Team is strongly encouraged, as it helps speed up the approvals process. We can support you with developing your proposals and projects, as well as sharing best practice from others. For teams to get the best out of us, there are a few simple things they should focus on. 
 
-#### Starting out
+### Starting out
 
 As well as discussing individual projects as they arise, ALB Digital Leaders should share a **forward plan of digital activity** with the team on a quarterly basis. This should set out what is happening when, and how it fits with the strategic plans of the organisation. 
 
@@ -43,7 +45,7 @@ We also expect project teams to **read existing guidance** set out in the [Gover
 
 Early engagement allows the DH team to target support and plan **engagement with GDS**, which makes the whole approvals process more straightforward later on. 
 
-#### Running a successful discovery
+### Running a successful discovery
 
 Before coming to the DH team with a digital service proposition, teams should be able to provide evidence that answers 10 key questions. These provide a focus for the [discovery phase of a project](https://www.gov.uk/service-manual/phases/discovery.html). 
 
@@ -109,7 +111,7 @@ How will you measure success? What provision have you made to acquire and fund d
 
 Too often, digital services get launched and then forgotten. We are looking for a clear plan that shows how the service will be operated and improved using feedback, and if there is a transition that involves replacing old services with the new proposition. 
 
-#### Completing a spend control form 
+### Completing a spend control form 
 
 Once you have completed a discovery phase, you should have much of the evidence needed to fill out a spending control form. All requests for digital spend approval will need to be accompanied one of these, to be assessed by the DH Digital Team in the first instance. GDS will not consider spend control forms that have not already been approved by the DH Digital Approvals Panel. 
 
@@ -117,7 +119,7 @@ Applicants submitting a spend control form to DH Digital will receive email conf
 
 Approvals may include conditions, which will need to be included within the project development. If a project is rejected, the notice will be accompanied with the reasons why and, if possible, a suggested way forward or alternative solutions. 
 
-####Service Assessments
+##Service Assessments
 
 Service assessments are carried out on all transactional services; those that involve an exchange of information, money, rights, goods or some combination of these.
 
@@ -138,10 +140,9 @@ In advance of the assessment, the service team will be asked to provide:
 
 Following an assessment, the lead assessor will produce a report to the DH Digital Leader on the panel’s findings. This report is based on each of the service standards and will include observations that would be of help to the project.  The report will content a conclusion stating that the project has passed or failed the assessment.  If a project does not pass, the project will be asked to make corrections and resubmit.  Further spending on the project will not be approved without a remediation plan.
 
-### Other considerations
-***
+## Other considerations
 
-#### Who approves spending?
+### Who approves spending?
 
 All spending in the following categories requires approval from the **DH Digital Leader and GDS**:
 
@@ -162,19 +163,19 @@ Spending on the following items requires approval from the **DH Digital Leader**
 * Feasibility, discovery, pilot and/or proof of concept studies
 * E-learning systems (if there is a citizen-facing element)
 
-#### What if changes have to be made after approval is given?
+### What if changes have to be made after approval is given?
 
 As a proposal moves through the alpha, beta, etc stages of approval, it is expected that some aspects may change. This could include cost. These changes should always be refinements of accuracy, rather than unplanned developments or increases in costs. 
 
 When approval is given, this is the maximum spend available to the project and must not be exceeded without a further submission. Any project that is likely to exceed the approved cost must be resubmitted for approval before any further funds can be used.  Approval of additional funds is not automatic and may be rejected.
 
-#### What if a project has been started without approval?
+### What if a project has been started without approval?
 
 In extreme circumstances it may be necessary to apply for retrospective approval.  In this case the same set of information needs to be provided at the same level of detail as would be provided for a non-retrospective application.  This will need to be accompanied by an explanation as to why the submission is retrospective and what steps are being taken to avoid any repeat of this situation.  
 
 It should be noted that there is no guarantee that approval will be granted, which may result in services being withdrawn.  
   
-#### How do I calculate the amount I want approval to spend?
+### How do I calculate the amount I want approval to spend?
 
 Approval should be sought for the full lifetime cost of the service. In this context, a lifetime cost means the total cost of ownership, not just the costs relating to development, initial purchases or site build. 
 

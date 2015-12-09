@@ -1,11 +1,13 @@
-### Standards
+# Design
+
+## Standards
 
 #### [User interface standards](http://systems.hscic.gov.uk/data/cui/uig)
 
 * Provided by: HSCIC
 * Applies to: applications provided for healthcare professionals  
 
-### Guidance
+## Guidance
 
 #### [GDS design principles](https://www.gov.uk/design-principles)
 
@@ -29,7 +31,7 @@ from the [Government Service Design Manual](https://www.gov.uk/service-manual)
 * Provided by: cross-government design community
 * Applies to: all central government departments and agencies
 
-### Code
+## Code
 
 #### [NHS.UK prototype kit](https://github.com/nhsalpha/nhs_prototype_kit) (in development)
 

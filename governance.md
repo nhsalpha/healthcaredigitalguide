@@ -1,6 +1,8 @@
-### Standards
+# Governance, approvals and assurance
 
-### Guidance
+## Standards
+
+## Guidance
 
 #### [Guidance for governing a digital service](https://www.gov.uk/service-manual/governance)
 
@@ -12,7 +14,7 @@
 * Provided by: Cabinet Office
 * Applies to: all technology and digital spend by government departments and agencies
 
-#### [[Department of Health digital spend controls guidance|Department of Health digital spend controls guidance]]
+#### [Department of Health digital spend controls guidance](DH_spend_control_guidance.md)
 
 * Provided by: Department of Health
 * Applies to: all digital spend by Department of Health and its agencies

@@ -1,4 +1,6 @@
-### Standards
+# Service delivery
+
+## Standards
 
 #### [Digital by Default service standard](https://www.gov.uk/service-manual/digital-by-default)
 
@@ -10,7 +12,7 @@
 * Provided by: PHE and NICE
 * Applies to: TBC
 
-### Guidance
+## Guidance
 
 #### [Government Service Design Manual](https://www.gov.uk/service-manual)
 

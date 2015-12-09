@@ -8,27 +8,28 @@ Right now, this guide mostly signposts to standards and guidance hosted elsewher
 
 ## Topics
 
-#### [Service delivery](service_delivery.md)
-#### [[Design|Design]]
-#### [[Branding|Branding]]
-#### [[Clinical|Clinical]]
-#### [[Technology|Technology]]
-#### [[User research|User research]]
-#### [[Content|Content]]
-#### [[Data|Data]]
-#### [[Identity|Identity]]
-#### [[Security and information governance|Security and information governance]]
-#### [[Performance|Performance]]
-#### [[nhs.uk and gov.uk domains|nhs.uk and gov.uk domains]]
-#### [[People and skills|People and skills]]
-#### [[Commercial|Commercial]]
-#### [[Governance, approvals and assurance|Governance, approvals and assurance]]
+#### [Service delivery](service-delivery.md)
+#### [Design](design.md)
+#### [Branding](branding.md)
+#### [Clinical](clincal.md)
+#### [Technology](technology.md)
+#### [User research](user-research.md)
+#### [Content](content.md)
+#### [Data](data.md)
+#### [Identity](identity.md)
+#### Security and information governance
+#### [Performance](performance.md)
+#### [nhs.uk and gov.uk domains](domains.md)
+#### People and skills
+#### [Commercial](commercial.md)
+#### [Governance, approvals and assurance](governance.md)
 
 ## Quick guides
 
-#### [[Developing a new website|Developing a new website]]
-#### [[Getting approval|Getting approval]]
-#### [[Prototyping NHS.UK services|Prototyping NHS.UK services]]
+#### [Developing a new website](developing-a-website.md)
+#### [Developing a mobile app](mobile-apps.md)
+#### Getting approval
+#### Prototyping NHS.UK services
 
 ## Get support
 

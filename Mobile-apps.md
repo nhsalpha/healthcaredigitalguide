@@ -1,11 +1,13 @@
-#### When you should build an app
+# Mobile apps
+
+## When you should build an app
 
 [Cabinet Office policy on mobile apps](https://gds.blog.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
 
 * Provided by: GDS
 * Applies to: all new or existing mobile apps created by central government and ALBs
 
-#### Getting permission to build or develop an app
+## Getting permission to build or develop an app
 
 The use of mobile apps is not a replacement for building a mobile responsive website. Stand-alone apps will only be considered for approval once a core web service works well on all mobile devices. If you think there is a good case for the inclusion of a mobile app as part of your digital project, you should speak with the DH Digital Team and provide clear evidence of the user need that can only be fulfilled with this solution. 
 

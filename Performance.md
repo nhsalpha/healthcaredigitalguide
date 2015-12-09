@@ -1,4 +1,6 @@
-### Guidance
+# Performance
+
+## Guidance
 
 #### [Performance Platform guidance](http://performance-platform.readthedocs.org/en/latest/)
 

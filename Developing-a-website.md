@@ -1,4 +1,6 @@
-# Build digital services, not websites.
+# Developing a new website
+
+## Build digital services, not websites
 
 A service is something that helps people to do something. Our job is to uncover user needs, and build the service that meets those needs. Of course much of that will be pages on the web, but we’re not here to build websites. 
 

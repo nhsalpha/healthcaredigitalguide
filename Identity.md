@@ -1,11 +1,13 @@
-### Standards
+# Identity
+
+## Standards
 
 #### [NHS Number standards](http://systems.hscic.gov.uk/nhsnumber/staff/standards)
 
 * Provided by: HSCIC
 * Applies to: all Health and Social Care organisations using or planning to use NHS numbers
 
-### Guidance
+## Guidance
 
 #### [Draft Identity Assurance Principles](https://www.gov.uk/government/consultations/draft-identity-assurance-principles/privacy-and-consumer-advisory-group-draft-identity-assurance-principles)
 

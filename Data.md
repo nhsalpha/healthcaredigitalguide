@@ -1,4 +1,6 @@
-### Standards
+# Data
+
+## Standards
 
 #### [Government open standards](https://www.gov.uk/government/publications/open-standards-for-government)
 
@@ -10,7 +12,7 @@
 * Provided by: Standardisation Committee for Care Information / HSCIC
 * Applies to: data standards used in health and social care
 
-### Guidance
+## Guidance
 
 #### [Open standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
 

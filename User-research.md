@@ -1,6 +1,6 @@
-### Guidance
+## Guidance
 
-#### [Resources for user researchers](https://www.gov.uk/service-manual/user-researchers)
+### [Resources for user researchers](https://www.gov.uk/service-manual/user-researchers)
 from the Government Service Design Manual
 
 * Provided by: GDS

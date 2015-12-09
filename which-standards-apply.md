@@ -1,25 +1,27 @@
+# Find out which standards apply to your service
+
 It can be difficult to determine which guidance and standards apply to your service or organisation. This is a simplified summary of 
 
 Here we have provided some rules of thumb. For now, you should refer to the original source if you have any uncertainties about which standards apply. 
 
 Over time, we hope to make this clearer and give teams to easy access to the standards relevant to them.
 
-### All organisations
+## All organisations
 
-### Department of Health and its arms length bodies 
+## Department of Health and its arms length bodies 
 
 * Any services provided by central government organisations must meet the cross-government standards set by Cabinet Office and HM Treasury 
 
-### NHS providers, including hospitals
+## NHS providers, including hospitals
 
-### CCGs
+## CCGs
 
-### GP practices
+## GP practices
 
-### Pharmacies 
+## Pharmacies 
 
-### Local authorities  
+## Local authorities  
 
-### Charities
+## Charities
 
-### Commercial Suppliers of Digital Services
+## Commercial Suppliers of Digital Services
